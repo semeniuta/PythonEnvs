@@ -3,4 +3,6 @@ scipy
 pandas
 cython
 pip
+pyzmq
+networkx
 mkl-service
