@@ -1,0 +1,3 @@
+git+https://github.com/pymc-devs/pymc3
+tensorflow
+keras
