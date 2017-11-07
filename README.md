@@ -14,7 +14,7 @@ The following groups are available:
  * `vision`
  * `symbolic`
  * `desim`
-
+ * `cli`
 
 `pe-install.py` utility manages installation of any of the available package groups, as well as all groups altogether.
 
